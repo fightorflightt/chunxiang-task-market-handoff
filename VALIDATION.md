@@ -18,4 +18,10 @@
 
 以上验证针对本地交互原型。未连接真实账户、支付、附件上传、雇主准入或订单服务，不代表生产实现验收通过。并发领取、接口权限、真实收付、计时边界及记录恢复需在后续实现中按用例验证。
 
-在线版尚未发布。需确认托管目标和访问范围后执行。
+## 在线发布
+
+已按用户明确要求发布至 GitHub Pages。构建成功，在线入口在浏览器中正常打开，页面显示交付包总览与四类内容入口。
+
+评审入口：https://fightorflightt.github.io/chunxiang-task-market-handoff/ 。
+
+仓库：https://github.com/fightorflightt/chunxiang-task-market-handoff 。

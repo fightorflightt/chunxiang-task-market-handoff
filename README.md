@@ -4,6 +4,15 @@
 
 本交付包按雇主、零工、平台三方组织，包含可点击原型、页面需求说明、统一业务规则和验收用例。
 
+## 在线评审
+
+[打开完整开发交付包](https://fightorflightt.github.io/chunxiang-task-market-handoff/)
+
+- [低保真原型](https://fightorflightt.github.io/chunxiang-task-market-handoff/#prototype/E01)
+- [页面需求说明](https://fightorflightt.github.io/chunxiang-task-market-handoff/#spec/E01)
+- [统一业务规则](https://fightorflightt.github.io/chunxiang-task-market-handoff/#rules)
+- [验收用例](https://fightorflightt.github.io/chunxiang-task-market-handoff/#tests)
+
 ## 内容
 
 - 15 个低保真页面，黑白灰线框。
