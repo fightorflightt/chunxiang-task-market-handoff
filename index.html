@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="返利 App 零工任务市场开发评审交付包：低保真原型、页面需求、业务规则和验收用例。">
+  <title>零工任务市场 · 开发交付包</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><div><strong>零工任务市场</strong><span class="version">开发评审 v0.2 · 低保真</span></div><button id="print-button" type="button">打印当前内容</button></header>
+  <nav id="main-nav" aria-label="交付内容"></nav>
+  <div class="layout"><aside id="sidebar" aria-label="页面导航"></aside><main id="main" tabindex="-1"></main></div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="dialog"><form id="dialog-form"><h2 id="dialog-title"></h2><p id="dialog-description"></p><label for="dialog-input">原因或处理说明</label><textarea id="dialog-input" rows="4" required></textarea><p id="dialog-error" class="error" role="alert"></p><div class="actions"><button type="button" id="dialog-cancel">取消</button><button class="primary" type="submit">确认</button></div></form></dialog>
+</body>
+</html>
